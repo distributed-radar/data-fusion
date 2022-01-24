@@ -11,7 +11,7 @@ function [xo, yo] = get_global_object_location(xr, yr, ar, ro, ao)
 end
 
 
-% https://www.desmos.com/calculator/hzoiwuqsuu
+% https://www.desmos.com/calculator/ktnci4garn
 % aorX          - angle between object and radar X
 % dorX          - doppler of object measured by radar X
 % [vxo, vyo]    - velocity of object
