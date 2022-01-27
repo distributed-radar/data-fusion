@@ -1,5 +1,5 @@
 
-% https://www.desmos.com/calculator/ac43ej7wgc
+% https://www.desmos.com/calculator/zl1srg8kxh
 % [xr, yr]  - coordinate of radar node
 % ar        - compass value of radar node
 % r0        - object's distance from radar node
